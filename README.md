@@ -19,7 +19,7 @@ Readme
 ### 🌑 About Me
 - 🔭 **Username:** `RenHaxor`
 - 🎯 **Fokus:** Membangun aplikasi web yang responsif dan estetik.
-- 🐈 **Interest:** Cyber security, UI/UX design, dan tentu saja... kucing dengan kacamata hitam.
+- 🐈 **Interest:** Cyber security, UI/UX design, dan FrontEnd .
 
 ---
 
